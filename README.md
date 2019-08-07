@@ -16,3 +16,19 @@ a | b | c
 ```
 code block
 ```
+## Heading
+-[x] List
+-[x] of
+-[x] Things
+-[x] to
+-[ ] do
+
+## Heading
+* Regular
+* Unordered
+  * List
+
+## Heading
+1. Regular
+1. Ordered
+  1. List
