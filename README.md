@@ -9,7 +9,7 @@ body
 
 ### Heading
 Table |   |   
----|---|---|
+---|---|---
 a | b | c
 
 ### Heading
