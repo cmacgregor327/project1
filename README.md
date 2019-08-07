@@ -17,7 +17,7 @@ a | b | c
 code block
 ```
 ## Heading
--[x] List
+* [x] List
 -[x] of
 -[x] Things
 -[x] to
