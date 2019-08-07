@@ -18,10 +18,10 @@ code block
 ```
 ## Heading
 * [x] List
--[x] of
--[x] Things
--[x] to
--[ ] do
+* [x] of
+* [x] Things
+* [x] to
+* [ ] do
 
 ## Heading
 * Regular
