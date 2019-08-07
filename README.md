@@ -7,8 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Heading
 body
 
-### Heading
-Table |   |   
+### Table
+A | B | C
 ---|---|---
 a | b | c
 
