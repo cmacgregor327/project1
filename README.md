@@ -5,11 +5,14 @@ You can use the [editor on GitHub](https://github.com/cmacgregor327/project1/edi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Heading
-
-
-### Heading
-
+body
 
 ### Heading
+Table |   |   
+---|---|---|
+a | b | c
 
-
+### Heading
+```
+code block
+```
